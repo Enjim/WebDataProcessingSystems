@@ -1,0 +1,10 @@
+warcio==1.7.4
+wikipedia==1.4.0
+requests
+spacy==3.4.3
+bs4
+SPARQLWrapper==2.0.0
+lxml==4.9.2
+trafilatura==1.4.0
+tqdm
+beautifulsoup4==4.11.1
